@@ -33,4 +33,3 @@ ax.set_xlim(0,tailleImage[0])
 ax.set_ylim(0,tailleImage[1])
 fig.tight_layout()
 fig.savefig("output.jpg")
-
